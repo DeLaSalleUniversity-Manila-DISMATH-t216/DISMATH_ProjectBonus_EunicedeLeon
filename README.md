@@ -21,12 +21,10 @@
 
 ###LINEAR SEARCH
 
-![dismath22e](https://cloud.githubusercontent.com/assets/16644615/13636806/d67476dc-e63e-11e5-97fb-5c1694a48871.jpg)
-
+![dismath22e](https://cloud.githubusercontent.com/assets/16644615/13636806/d67476dc-e63e-11e5-97fb-5c1694a48871.jpg)  
 ![dismath22f](https://cloud.githubusercontent.com/assets/16644615/13636975/bc2530c2-e63f-11e5-9153-7068066f0601.jpg)
 
 ### BINARY SEARCH
 
-![dismath22g](https://cloud.githubusercontent.com/assets/16644615/13636808/d943fa90-e63e-11e5-868e-9eee2d80b879.jpg)
-
+![dismath22g](https://cloud.githubusercontent.com/assets/16644615/13636808/d943fa90-e63e-11e5-868e-9eee2d80b879.jpg)  
 ![dismath22h](https://cloud.githubusercontent.com/assets/16644615/13636801/d5e23542-e63e-11e5-9106-d7d821bcadb8.jpg)
