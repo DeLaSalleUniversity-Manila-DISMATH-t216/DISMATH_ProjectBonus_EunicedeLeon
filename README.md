@@ -2,7 +2,7 @@
 
 ## DESIGNER
 
-![dismath22c](https://cloud.githubusercontent.com/assets/16644615/13635952/f2555402-e639-11e5-9ede-d00041109510.png)
+![dismath22c](https://cloud.githubusercontent.com/assets/16644615/13636093/e1551312-e63a-11e5-84c1-363328b69dc1.png)
 
 ## LINEAR SEARCH BLOCKS
 
